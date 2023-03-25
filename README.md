@@ -1,6 +1,6 @@
 ## Docker Compose-File
 
-Dieses README erklärt die verschiedenen Elemente des Docker Compose-Files in unserem Beispielprojekt, das einen Nginx-Frontend, einen PHP-FPM-Backend und eine MySQL-Datenbank verwendet.
+Dieses README erklärt die verschiedenen Elemente des Docker Compose-Files in meinem Beispielprojekt, das einen Nginx-Frontend, einen PHP-FPM-Backend und eine MySQL-Datenbank verwendet.
 
 Das Docker Compose-File definiert drei Services: `frontend`, `backend` und `db`.
 
